@@ -1,0 +1,1 @@
+Final task on the Python API Test Automation course with logs and allure (https://stepik.org/)
